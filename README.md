@@ -28,7 +28,7 @@ Los algoritmos de clasificación vistos en el video son:
 
 ## Aprendizaje no supervisado
 
-En este [YouTube](https://youtu.be/xyU2pzKTQE0) aprenderás como aplicar el aprendizaje no supervisado con scikit-learn para poder aplciarlos a tus datos, para poder aprenderlo utilizaremos
+En este [YouTube](https://youtu.be/g_UviQzvmTI) aprenderás como aplicar el aprendizaje no supervisado con scikit-learn para poder aplciarlos a tus datos, para poder aprenderlo utilizaremos
 el algoritmo K-Means para poder entender como se pueden etiquetar nuestros datos en base a sus características.
 
 ![K-Means](https://github.com/Adrian-Cancino/Machine-Learning-ScikitLearn/assets/71229190/2fa477cc-2495-42d0-80d5-86dfe75e00a8)
